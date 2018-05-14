@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="ServiceNow Update">7c5468c60f021300f853ba8ce1050e39</application>
+        <filter/>
+        <name>ServiceNow DEV Updates</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_107493_serviceno.servicenow_dev_updates_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-14 16:17:08</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>305468c60f021300f853ba8ce1050e3c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ServiceNow DEV Updates</sys_name>
+        <sys_package display_value="ServiceNow" source="x_107493_serviceno">5d62a4420f021300f853ba8ce1050e94</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow">5d62a4420f021300f853ba8ce1050e94</sys_scope>
+        <sys_update_name>sys_ui_module_305468c60f021300f853ba8ce1050e3c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-14 16:17:08</sys_updated_on>
+        <table>x_107493_serviceno_servicenow_dev_updates</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

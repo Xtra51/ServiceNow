@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="ServiceNow DEV Updates" max_length="40" name="x_107493_serviceno_servicenow_dev_updates" type="collection"/>
+</database>
